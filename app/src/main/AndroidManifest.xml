@@ -18,6 +18,12 @@
         android:usesCleartextTraffic="true"
         tools:targetApi="31">
         <activity
+            android:launchMode="singleTask"
+            android:name=".VideoPlayActivity"
+            android:configChanges="screenSize|smallestScreenSize|screenLayout|orientation"
+            android:exported="false"
+            android:supportsPictureInPicture="true" />
+        <activity
             android:name=".MainActivity"
             android:exported="true">
             <intent-filter>
