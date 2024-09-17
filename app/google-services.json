@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "190010369590",
+    "project_id": "exoplayerdemoapp",
+    "storage_bucket": "exoplayerdemoapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:190010369590:android:1e38c31139fb6a8afc9a97",
+        "android_client_info": {
+          "package_name": "com.example.exoplayerdemoapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZQ8ZLhJLoMByJecSCO5PVuZegMQuKGGg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
